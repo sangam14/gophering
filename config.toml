@@ -1,5 +1,5 @@
-baseURL = "/Static-Website-Hugo-Docsy"
-title = "eLearning Hub"
+baseURL = "/gophering"
+title = "gopherlabs"
 
 enableRobotsTXT = true
 
