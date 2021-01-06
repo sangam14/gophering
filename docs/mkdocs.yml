@@ -5,7 +5,7 @@ site_url: https://sangam14.github.io/gophering/
 dev_addr: 0.0.0.0:8000
 
 repo_name: 'GitHub'
-repo_url: 'https://github.com/traefik/traefik'
+repo_url: 'https://github.com/sangam14/gophering'
 
 docs_dir: 'content'
 
