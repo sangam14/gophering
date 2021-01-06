@@ -1,0 +1,578 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="572" height="589" viewBox="0 0 572 589">
+    <defs>
+        <filter id="prefix__d" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__e" width="300%" height="238.5%" x="-100%" y="-69.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="30"/>
+        </filter>
+        <filter id="prefix__h" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__j" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__n" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__p" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__r" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__t" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__z" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__B" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__D" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__F" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__H" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__J" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__L" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__N" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__P" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__R" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__T" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__V" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__an" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__ap" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__ar" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__at" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__av" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__ax" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__az" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__aB" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__aD" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__aF" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__aH" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__aJ" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__aL" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__aN" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__aP" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__aR" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <filter id="prefix__aT" width="106.1%" height="117.5%" x="-3.1%" y="-4.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.135134397 0"/>
+        </filter>
+        <filter id="prefix__aV" width="108.8%" height="123.3%" x="-4.4%" y="-5.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.140406469 0"/>
+        </filter>
+        <path id="prefix__a" d="M0 0H600V640H0z"/>
+        <path id="prefix__i" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__k" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__o" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__q" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__s" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__u" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__A" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__C" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__E" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__G" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__I" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__K" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__M" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__O" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__Q" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__S" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__U" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__W" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__ao" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aq" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__as" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__au" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aw" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__ay" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aA" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aC" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aE" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aG" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aI" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aK" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aM" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aO" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aQ" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aS" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <path id="prefix__aU" d="M35.867 50.997c0-.347-.213-.752-.477-.902l-15.436-8.828c-.263-.15-.476.01-.476.357v1.26c0 .347.213.752.476.902l15.436 8.828c.264.15.477-.01.477-.357v-1.26z"/>
+        <path id="prefix__aW" d="M65.103 32.725c.666.38 1.206 1.401 1.206 2.279 0 .877-.54 1.281-1.206.901-.666-.38-1.207-1.4-1.207-2.278 0-.878.54-1.282 1.207-.902zm4.494 2.565c.666.38 1.206 1.4 1.206 2.278 0 .878-.54 1.282-1.206.902-.666-.38-1.207-1.401-1.207-2.279 0-.877.54-1.281 1.207-.901zm4.494 2.564c.666.38 1.207 1.4 1.207 2.278 0 .878-.541 1.282-1.207.902s-1.207-1.4-1.207-2.279c0-.877.541-1.281 1.207-.901z"/>
+        <linearGradient id="prefix__f" x1="-44.408%" x2="100%" y1="6.487%" y2="73.336%">
+            <stop offset="0%" stop-color="#081537"/>
+            <stop offset="100%" stop-color="#14388E"/>
+        </linearGradient>
+        <linearGradient id="prefix__g" x1="-38.234%" x2="106.55%" y1="87.164%" y2="18.209%">
+            <stop offset="0%" stop-color="#7898E5"/>
+            <stop offset="100%" stop-color="#4B76DD"/>
+        </linearGradient>
+        <linearGradient id="prefix__m" x1="100%" x2="16.416%" y1="33.015%" y2="56.936%">
+            <stop offset="0%" stop-color="#557BD7"/>
+            <stop offset="100%" stop-color="#1643AF"/>
+        </linearGradient>
+        <linearGradient id="prefix__l" x1="46.672%" x2="46.672%" y1="100%" y2="34.88%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".158"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="prefix__v" x1="69.185%" x2="21.574%" y1="40.486%" y2="56.712%">
+            <stop offset="0%" stop-color="#A4BFFF"/>
+            <stop offset="100%" stop-color="#638AE7"/>
+        </linearGradient>
+        <linearGradient id="prefix__w" x1="33.261%" x2="66.739%" y1="19.969%" y2="83.989%">
+            <stop offset="0%" stop-color="#8CD9ED"/>
+            <stop offset="100%" stop-color="#6CBACE"/>
+        </linearGradient>
+        <linearGradient id="prefix__x" x1="74.268%" x2="39.604%" y1="67.667%" y2="34.637%">
+            <stop offset="0%" stop-color="#004557"/>
+            <stop offset="100%" stop-color="#097692"/>
+        </linearGradient>
+        <linearGradient id="prefix__y" x1="88.697%" x2="10.887%" y1="58.551%" y2="36.669%">
+            <stop offset="0%" stop-color="#24A1C1"/>
+            <stop offset="100%" stop-color="#7BC6D9"/>
+        </linearGradient>
+        <linearGradient id="prefix__X" x1="33.261%" x2="66.739%" y1="19.969%" y2="83.989%">
+            <stop offset="0%" stop-color="#8CD9ED"/>
+            <stop offset="100%" stop-color="#6CBACE"/>
+        </linearGradient>
+        <linearGradient id="prefix__Y" x1="74.268%" x2="39.604%" y1="67.667%" y2="34.637%">
+            <stop offset="0%" stop-color="#004557"/>
+            <stop offset="100%" stop-color="#097692"/>
+        </linearGradient>
+        <linearGradient id="prefix__Z" x1="88.697%" x2="10.887%" y1="58.551%" y2="36.669%">
+            <stop offset="0%" stop-color="#24A1C1"/>
+            <stop offset="100%" stop-color="#7BC6D9"/>
+        </linearGradient>
+        <linearGradient id="prefix__aa" x1="33.261%" x2="66.739%" y1="19.969%" y2="83.989%">
+            <stop offset="0%" stop-color="#8CD9ED"/>
+            <stop offset="100%" stop-color="#6CBACE"/>
+        </linearGradient>
+        <linearGradient id="prefix__ab" x1="74.268%" x2="39.604%" y1="67.667%" y2="34.637%">
+            <stop offset="0%" stop-color="#004557"/>
+            <stop offset="100%" stop-color="#097692"/>
+        </linearGradient>
+        <linearGradient id="prefix__ac" x1="88.697%" x2="10.887%" y1="58.551%" y2="36.669%">
+            <stop offset="0%" stop-color="#24A1C1"/>
+            <stop offset="100%" stop-color="#7BC6D9"/>
+        </linearGradient>
+        <linearGradient id="prefix__ad" x1="34.568%" x2="65.432%" y1="19.969%" y2="83.989%">
+            <stop offset="0%" stop-color="#8CD9ED"/>
+            <stop offset="100%" stop-color="#6CBACE"/>
+        </linearGradient>
+        <linearGradient id="prefix__ae" x1="72.497%" x2="40.363%" y1="67.667%" y2="34.637%">
+            <stop offset="0%" stop-color="#004557"/>
+            <stop offset="100%" stop-color="#097692"/>
+        </linearGradient>
+        <linearGradient id="prefix__af" x1="88.697%" x2="10.887%" y1="58.984%" y2="35.995%">
+            <stop offset="0%" stop-color="#24A1C1"/>
+            <stop offset="100%" stop-color="#7BC6D9"/>
+        </linearGradient>
+        <linearGradient id="prefix__ag" x1="28.62%" x2="100%" y1="58.109%" y2="33.333%">
+            <stop offset="0%" stop-color="#4ACFE2"/>
+            <stop offset="100%" stop-color="#24A1C1" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="prefix__ah" x1="88.232%" x2="44.4%" y1="100%" y2="-17.628%">
+            <stop offset="0%" stop-color="#06102A"/>
+            <stop offset="100%" stop-color="#1E54D5"/>
+        </linearGradient>
+        <linearGradient id="prefix__ai" x1="70.997%" x2="46.924%" y1="100%" y2="-17.628%">
+            <stop offset="0%" stop-color="#06102A"/>
+            <stop offset="100%" stop-color="#1E54D5"/>
+        </linearGradient>
+        <linearGradient id="prefix__aj" x1="50%" x2="82.387%" y1="3.665%" y2="83.146%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".128"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="prefix__al" x1="13.926%" x2="89.426%" y1="4.407%" y2="99.435%">
+            <stop offset="0%" stop-color="#5988FF"/>
+            <stop offset="100%" stop-color="#1E54D5"/>
+        </linearGradient>
+        <linearGradient id="prefix__ak" x1="51.872%" x2="58.304%" y1="6.567%" y2="68.745%">
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".212"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="prefix__am" x1="54.204%" x2="0%" y1="23.361%" y2="42.738%">
+            <stop offset="0%" stop-color="#4ACFE2"/>
+            <stop offset="100%" stop-color="#24A1C1" stop-opacity="0"/>
+        </linearGradient>
+        <radialGradient id="prefix__c" cx="50%" cy="50%" r="45.672%" fx="50%" fy="50%" gradientTransform="matrix(0 .90323 -1 0 1 .048)">
+            <stop offset="0%" stop-color="#9D0FB0"/>
+            <stop offset="100%" stop-color="#9D0FB0" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-28 -22)">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <g mask="url(#prefix__b)">
+            <g transform="translate(0 -40)">
+                <ellipse cx="322" cy="356.5" fill="url(#prefix__c)" filter="url(#prefix__d)" opacity=".224" rx="322" ry="356.5"/>
+                <ellipse cx="319" cy="336" fill="#D961EA" filter="url(#prefix__e)" rx="45" ry="65"/>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g>
+                <g transform="translate(342 131) matrix(-1 0 0 1 100.375 62.5)">
+                    <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                    <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                    <use fill="#000" filter="url(#prefix__h)" xlink:href="#prefix__i"/>
+                    <use fill="#091D4F" xlink:href="#prefix__i"/>
+                    <g transform="matrix(-1 0 0 1 139.194 0)">
+                        <use fill="#000" filter="url(#prefix__j)" xlink:href="#prefix__k"/>
+                        <use fill="#3359B4" xlink:href="#prefix__k"/>
+                    </g>
+                    <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                </g>
+                <g transform="translate(342 131) matrix(-1 0 0 1 100.375 42.5)">
+                    <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                    <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                    <use fill="#000" filter="url(#prefix__n)" xlink:href="#prefix__o"/>
+                    <use fill="#091D4F" xlink:href="#prefix__o"/>
+                    <g transform="matrix(-1 0 0 1 139.194 0)">
+                        <use fill="#000" filter="url(#prefix__p)" xlink:href="#prefix__q"/>
+                        <use fill="#3359B4" xlink:href="#prefix__q"/>
+                    </g>
+                    <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                </g>
+                <g transform="translate(342 131) matrix(-1 0 0 1 100.375 22.5)">
+                    <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                    <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                    <use fill="#000" filter="url(#prefix__r)" xlink:href="#prefix__s"/>
+                    <use fill="#24A1C1" xlink:href="#prefix__s"/>
+                    <g transform="matrix(-1 0 0 1 139.194 0)">
+                        <use fill="#000" filter="url(#prefix__t)" xlink:href="#prefix__u"/>
+                        <use fill="#67519E" xlink:href="#prefix__u"/>
+                    </g>
+                    <path fill="url(#prefix__v)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                </g>
+                <path fill="url(#prefix__w)" d="M59.73 68.766L0.33 34.8 0.33 103.783 59.73 137.46z" opacity=".187" transform="translate(342 131)"/>
+                <path fill="url(#prefix__x)" d="M118.897 34.92L59.73 68.771 59.73 137.46 118.897 103.978z" opacity=".157" transform="translate(342 131)"/>
+                <path fill="url(#prefix__y)" d="M59.511 0.158L0.33 34.8 59.716 69.562 118.897 34.92z" opacity=".222" transform="translate(342 131)"/>
+                <g>
+                    <g transform="translate(342 131) translate(59 35) matrix(-1 0 0 1 100.375 62.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__z)" xlink:href="#prefix__A"/>
+                        <use fill="#091D4F" xlink:href="#prefix__A"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__B)" xlink:href="#prefix__C"/>
+                            <use fill="#3359B4" xlink:href="#prefix__C"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(342 131) translate(59 35) matrix(-1 0 0 1 100.375 42.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__D)" xlink:href="#prefix__E"/>
+                        <use fill="#091D4F" xlink:href="#prefix__E"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__F)" xlink:href="#prefix__G"/>
+                            <use fill="#3359B4" xlink:href="#prefix__G"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(342 131) translate(59 35) matrix(-1 0 0 1 100.375 22.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__H)" xlink:href="#prefix__I"/>
+                        <use fill="#24A1C1" xlink:href="#prefix__I"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__J)" xlink:href="#prefix__K"/>
+                            <use fill="#67519E" xlink:href="#prefix__K"/>
+                        </g>
+                        <path fill="url(#prefix__v)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <path fill="url(#prefix__w)" d="M59.73 68.766L0.33 34.8 0.33 103.783 59.73 137.46z" opacity=".187" transform="translate(342 131) translate(59 35)"/>
+                    <path fill="url(#prefix__x)" d="M118.897 34.92L59.73 68.771 59.73 137.46 118.897 103.978z" opacity=".157" transform="translate(342 131) translate(59 35)"/>
+                    <path fill="url(#prefix__y)" d="M59.511 0.158L0.33 34.8 59.716 69.562 118.897 34.92z" opacity=".222" transform="translate(342 131) translate(59 35)"/>
+                </g>
+                <g>
+                    <g transform="translate(342 131) translate(118 70) matrix(-1 0 0 1 100.375 62.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__L)" xlink:href="#prefix__M"/>
+                        <use fill="#091D4F" xlink:href="#prefix__M"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__N)" xlink:href="#prefix__O"/>
+                            <use fill="#3359B4" xlink:href="#prefix__O"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(342 131) translate(118 70) matrix(-1 0 0 1 100.375 42.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__P)" xlink:href="#prefix__Q"/>
+                        <use fill="#091D4F" xlink:href="#prefix__Q"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__R)" xlink:href="#prefix__S"/>
+                            <use fill="#3359B4" xlink:href="#prefix__S"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(342 131) translate(118 70) matrix(-1 0 0 1 100.375 22.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__T)" xlink:href="#prefix__U"/>
+                        <use fill="#24A1C1" xlink:href="#prefix__U"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__V)" xlink:href="#prefix__W"/>
+                            <use fill="#67519E" xlink:href="#prefix__W"/>
+                        </g>
+                        <path fill="url(#prefix__v)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <path fill="url(#prefix__w)" d="M59.73 68.766L0.33 34.8 0.33 103.783 59.73 137.46z" opacity=".187" transform="translate(342 131) translate(118 70)"/>
+                    <path fill="url(#prefix__x)" d="M118.897 34.92L59.73 68.771 59.73 137.46 118.897 103.978z" opacity=".157" transform="translate(342 131) translate(118 70)"/>
+                    <path fill="url(#prefix__y)" d="M59.511 0.158L0.33 34.8 59.716 69.562 118.897 34.92z" opacity=".222" transform="translate(342 131) translate(118 70)"/>
+                </g>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g>
+                <path fill="url(#prefix__X)" d="M16.8 19.518L0.3 10.083 0.3 29.245 16.8 38.6z" transform="translate(182 120)"/>
+                <path fill="url(#prefix__Y)" d="M33.235 10.117L16.8 19.52 16.8 38.6 33.235 29.299z" transform="translate(182 120)"/>
+                <path fill="url(#prefix__Z)" d="M16.739 0.46L0.3 10.083 16.796 19.74 33.235 10.117z" transform="translate(182 120)"/>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g>
+                <path fill="url(#prefix__aa)" d="M20.16 23.422L0.36 12.1 0.36 35.094 20.16 46.32z" transform="translate(451 420)"/>
+                <path fill="url(#prefix__ab)" d="M39.882 12.14L20.16 23.424 20.16 46.32 39.882 35.159z" transform="translate(451 420)"/>
+                <path fill="url(#prefix__ac)" d="M20.087 0.553L0.36 12.1 20.155 23.687 39.882 12.14z" transform="translate(451 420)"/>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g>
+                <path fill="url(#prefix__ad)" d="M10 11.955L0 6 0 18.095 10 24z" transform="translate(83 212)"/>
+                <path fill="url(#prefix__ae)" d="M20 6L10 11.942 10 24 20 18.123z" transform="translate(83 212)"/>
+                <path fill="url(#prefix__af)" d="M9.983 0L0 5.99 10.017 12 20 6.01z" transform="translate(83 212)"/>
+            </g>
+        </g>
+        <g stroke="url(#prefix__ag)" stroke-dasharray="2 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#prefix__b)">
+            <g>
+                <path d="M265.452 68L119 152.554M146.452 0L0 84.554M202.452 33L56 117.554" transform="translate(236 236)"/>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g>
+                <path fill="url(#prefix__ah)" d="M78.19 4.03l.026.016c11.358-6.331 25.99-5.334 41.695 3.714 33.74 19.439 61.427 69.678 64.067 115.561 15.22 14.31 26.022 39.097 26.022 60.333 0 13.637-4.391 23.406-11.393 27.97l.064.037L178.991 223l-7.52-4.332 9.499-5.471c-1.858-.62-3.766-1.464-5.712-2.538l-.65-.366L61.997 145.41c-24.835-14.309-45.045-52.804-45.045-85.81 0-8.95 1.486-16.592 4.148-22.691L15 33.397l18.394-10.598.063.035c7.528-3.876 17.087-3.407 27.51 2.287 1.117-2.766 2.386-5.311 3.792-7.633l-4.964-2.86L78.19 4.031l.027.015-.027-.015z" transform="translate(194 195)"/>
+                <path fill="url(#prefix__ai)" d="M160.974 136.683l23.276-13.104-.272-.258c15.22 14.31 26.022 39.097 26.022 60.333 0 2.099-.104 4.106-.306 6.017l-21.194 9.306-27.526-62.294z" opacity=".68" transform="translate(194 195)"/>
+                <path stroke="url(#prefix__aj)" d="M119.662 8.193c-15.51-8.936-29.973-9.97-41.23-3.725l-17.635 10.16 4.656 2.684c-1.5 2.415-2.845 5.083-4.023 7.996l-.21.525c-.162-.091-.327-.183-.494-.273-10.234-5.592-19.63-6.092-27.094-2.321l-17.63 10.158 5.737 3.304c-2.752 6.112-4.287 13.83-4.287 22.9 0 16.427 5.033 34.218 13.151 49.683 8.11 15.447 19.297 28.58 31.643 35.694l112.612 64.881.646.365c2.292 1.265 4.536 2.207 6.705 2.836l-9.736 5.608 6.517 3.754 19.355-11.223c6.89-4.5 11.155-14.146 11.155-27.545 0-21.107-10.737-45.745-26.022-60.304-2.63-45.713-30.196-95.786-63.816-115.157z" transform="translate(194 195)"/>
+                <path fill="url(#prefix__al)" stroke="url(#prefix__ak)" d="M43.534 35.615c-5.869-3.23-11.458-4.766-16.552-4.755-5.242.011-9.956 1.663-13.899 4.776C5.274 41.8.5 53.648.5 69.736c0 32.904 19.975 71.299 44.551 85.567l112 65.026c4.675 2.714 9.135 4.063 13.207 4.165 4.188.104 7.96-1.113 11.118-3.509 6.28-4.764 10.124-14.136 10.124-26.922 0-21.154-10.678-45.848-25.88-60.438-2.616-45.815-30.032-96-63.471-115.415-12.663-7.352-24.62-9.368-34.676-6.383-10.063 2.987-18.196 10.979-23.234 23.536l-.209.529c-.164-.093-.33-.185-.496-.277z" transform="translate(194 195)"/>
+            </g>
+        </g>
+        <g fill="#24A1C1" stroke="#24A1C1" stroke-opacity=".311" stroke-width="3" mask="url(#prefix__b)">
+            <g>
+                <path d="M3.768-.917c-.664-.396-1.302-.567-1.877-.582-.73-.019-1.385.205-1.935.633C-.854-.233-1.5.951-1.5 2.712c0 2.803 1.716 6.004 3.732 7.205.664.396 1.302.567 1.877.582.73.019 1.385-.205 1.935-.633.81-.633 1.456-1.817 1.456-3.578C7.5 3.485 5.784.284 3.768-.917zM59.768 32.083c-.664-.396-1.302-.567-1.877-.582-.73-.019-1.385.205-1.935.633-.81.633-1.456 1.817-1.456 3.578 0 2.803 1.716 6.004 3.732 7.205.664.396 1.302.567 1.877.582.73.019 1.385-.205 1.935-.633.81-.633 1.456-1.817 1.456-3.578 0-2.803-1.716-6.004-3.732-7.205zM122.768 67.083c-.664-.396-1.302-.567-1.877-.582-.73-.019-1.385.205-1.935.633-.81.633-1.456 1.817-1.456 3.578 0 2.803 1.716 6.004 3.732 7.205.664.396 1.302.567 1.877.582.73.019 1.385-.205 1.935-.633.81-.633 1.456-1.817 1.456-3.578 0-2.803-1.716-6.004-3.732-7.205z" transform="translate(227 318)"/>
+            </g>
+        </g>
+        <g stroke="url(#prefix__am)" stroke-dasharray="2 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" mask="url(#prefix__b)">
+            <g>
+                <path d="M265.452 68L119 152.554M146.452 0L0 84.554M202.452 33L56 117.554" transform="translate(83 323)"/>
+            </g>
+        </g>
+        <g mask="url(#prefix__b)">
+            <g>
+                <g transform="translate(38 321) matrix(-1 0 0 1 100.375 62.5)">
+                    <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                    <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                    <use fill="#000" filter="url(#prefix__an)" xlink:href="#prefix__ao"/>
+                    <use fill="#091D4F" xlink:href="#prefix__ao"/>
+                    <g transform="matrix(-1 0 0 1 139.194 0)">
+                        <use fill="#000" filter="url(#prefix__ap)" xlink:href="#prefix__aq"/>
+                        <use fill="#3359B4" xlink:href="#prefix__aq"/>
+                    </g>
+                    <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                </g>
+                <g transform="translate(38 321) matrix(-1 0 0 1 100.375 42.5)">
+                    <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                    <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                    <use fill="#000" filter="url(#prefix__ar)" xlink:href="#prefix__as"/>
+                    <use fill="#091D4F" xlink:href="#prefix__as"/>
+                    <g transform="matrix(-1 0 0 1 139.194 0)">
+                        <use fill="#000" filter="url(#prefix__at)" xlink:href="#prefix__au"/>
+                        <use fill="#3359B4" xlink:href="#prefix__au"/>
+                    </g>
+                    <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                </g>
+                <g transform="translate(38 321) matrix(-1 0 0 1 100.375 22.5)">
+                    <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                    <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                    <use fill="#000" filter="url(#prefix__av)" xlink:href="#prefix__aw"/>
+                    <use fill="#24A1C1" xlink:href="#prefix__aw"/>
+                    <g transform="matrix(-1 0 0 1 139.194 0)">
+                        <use fill="#000" filter="url(#prefix__ax)" xlink:href="#prefix__ay"/>
+                        <use fill="#67519E" xlink:href="#prefix__ay"/>
+                    </g>
+                    <path fill="url(#prefix__v)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                </g>
+                <path fill="url(#prefix__w)" d="M59.73 68.766L0.33 34.8 0.33 103.783 59.73 137.46z" opacity=".187" transform="translate(38 321)"/>
+                <path fill="url(#prefix__x)" d="M118.897 34.92L59.73 68.771 59.73 137.46 118.897 103.978z" opacity=".157" transform="translate(38 321)"/>
+                <path fill="url(#prefix__y)" d="M59.511 0.158L0.33 34.8 59.716 69.562 118.897 34.92z" opacity=".222" transform="translate(38 321)"/>
+                <g>
+                    <g transform="translate(38 321) translate(59 35) matrix(-1 0 0 1 100.375 62.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__az)" xlink:href="#prefix__aA"/>
+                        <use fill="#091D4F" xlink:href="#prefix__aA"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__aB)" xlink:href="#prefix__aC"/>
+                            <use fill="#3359B4" xlink:href="#prefix__aC"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(38 321) translate(59 35) matrix(-1 0 0 1 100.375 42.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__aD)" xlink:href="#prefix__aE"/>
+                        <use fill="#091D4F" xlink:href="#prefix__aE"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__aF)" xlink:href="#prefix__aG"/>
+                            <use fill="#3359B4" xlink:href="#prefix__aG"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(38 321) translate(59 35) matrix(-1 0 0 1 100.375 22.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__aH)" xlink:href="#prefix__aI"/>
+                        <use fill="#24A1C1" xlink:href="#prefix__aI"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__aJ)" xlink:href="#prefix__aK"/>
+                            <use fill="#67519E" xlink:href="#prefix__aK"/>
+                        </g>
+                        <path fill="url(#prefix__v)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <path fill="url(#prefix__w)" d="M59.73 68.766L0.33 34.8 0.33 103.783 59.73 137.46z" opacity=".187" transform="translate(38 321) translate(59 35)"/>
+                    <path fill="url(#prefix__x)" d="M118.897 34.92L59.73 68.771 59.73 137.46 118.897 103.978z" opacity=".157" transform="translate(38 321) translate(59 35)"/>
+                    <path fill="url(#prefix__y)" d="M59.511 0.158L0.33 34.8 59.716 69.562 118.897 34.92z" opacity=".222" transform="translate(38 321) translate(59 35)"/>
+                </g>
+                <g>
+                    <g transform="translate(38 321) translate(118 70) matrix(-1 0 0 1 100.375 62.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__aL)" xlink:href="#prefix__aM"/>
+                        <use fill="#091D4F" xlink:href="#prefix__aM"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__aN)" xlink:href="#prefix__aO"/>
+                            <use fill="#3359B4" xlink:href="#prefix__aO"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(38 321) translate(118 70) matrix(-1 0 0 1 100.375 42.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__aP)" xlink:href="#prefix__aQ"/>
+                        <use fill="#091D4F" xlink:href="#prefix__aQ"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__aR)" xlink:href="#prefix__aS"/>
+                            <use fill="#3359B4" xlink:href="#prefix__aS"/>
+                        </g>
+                        <path fill="url(#prefix__m)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <g transform="translate(38 321) translate(118 70) matrix(-1 0 0 1 100.375 22.5)">
+                        <path fill="url(#prefix__f)" d="M40.143 46.643L0 23.202 0 37.209 40.143 60.65z"/>
+                        <path fill="url(#prefix__g)" d="M40.143 46.896L80.286 23.559 80.286 37.313 40.143 60.65z"/>
+                        <use fill="#000" filter="url(#prefix__aT)" xlink:href="#prefix__aU"/>
+                        <use fill="#24A1C1" xlink:href="#prefix__aU"/>
+                        <g transform="matrix(-1 0 0 1 139.194 0)">
+                            <use fill="#000" filter="url(#prefix__aV)" xlink:href="#prefix__aW"/>
+                            <use fill="#67519E" xlink:href="#prefix__aW"/>
+                        </g>
+                        <path fill="url(#prefix__v)" stroke="url(#prefix__l)" stroke-width=".75" d="M40.003.538L.745 23.418l39.538 23.044 39.258-22.88L40.003.538z"/>
+                    </g>
+                    <path fill="url(#prefix__w)" d="M59.73 68.766L0.33 34.8 0.33 103.783 59.73 137.46z" opacity=".187" transform="translate(38 321) translate(118 70)"/>
+                    <path fill="url(#prefix__x)" d="M118.897 34.92L59.73 68.771 59.73 137.46 118.897 103.978z" opacity=".157" transform="translate(38 321) translate(118 70)"/>
+                    <path fill="url(#prefix__y)" d="M59.511 0.158L0.33 34.8 59.716 69.562 118.897 34.92z" opacity=".222" transform="translate(38 321) translate(118 70)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
