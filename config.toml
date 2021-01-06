@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sangam14.github.io/gophering"
 title = "gopherlabs"
 
 enableRobotsTXT = true
